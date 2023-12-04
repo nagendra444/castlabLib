@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('castlabs-sdk-4.2.56.aar'))
